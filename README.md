@@ -4,8 +4,8 @@
 $ git clone https://github.com/shaikhnabil/vendor_management.git
 
 **Activate virtual environment**
-cd myenv
-Scripts\activate
+cd myenv <br>
+Scripts\activate <br>
 
 **move to project folder to run project**
 cd ../
