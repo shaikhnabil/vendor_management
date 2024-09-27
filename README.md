@@ -14,6 +14,6 @@ python manage.py runserver<br>
 http://127.0.0.1:8000/<br><br>
 
 **Use thunder client extension to test api endpoint**<br>
-set header as <br><b>header:</b>Authorization <br><b>value:</b>token 3b74d3d0f5465f69b81534d06ed510dca3a228ce<br>
+set header as <br><b>header:</b>Authorization <br><b>value:</b>token 3b74d*************************<br>
 request api using http://127.0.0.1:8000/vendors/ <br>
 change urls to request other api endpoints<br>
